@@ -7,6 +7,7 @@ connections contains a few starting features to help quickstart you network proj
 - Multiple Users Connected To Server Support
 - Built-in Client Lists and Count via `server.GetClients()` and `server.ClientCount`
 - Very little startup code required
+- Included Demo for a simple messaging app
 
 ## Examples
 Note that these examples use strings, however you can use any type of data supported by BinaryReader/Writer
