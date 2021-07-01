@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2013\Projects\Connections Client\Connections Client\bin\Debug\Connections Client.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\Connections Client\Connections Client\obj\Debug\Connections Client.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\Connections Client\Connections Client\bin\Debug\Connections Client.exe
+c:\users\adam\documents\visual studio 2013\Projects\Connections Client\Connections Client\bin\Debug\Connections Client.pdb
+c:\users\adam\documents\visual studio 2013\Projects\Connections Client\Connections Client\obj\Debug\Connections Client.exe
+c:\users\adam\documents\visual studio 2013\Projects\Connections Client\Connections Client\obj\Debug\Connections Client.pdb

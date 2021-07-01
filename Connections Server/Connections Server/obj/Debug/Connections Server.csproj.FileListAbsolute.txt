@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2013\Projects\Connections Server\Connections Server\bin\Debug\Connections Server.exe.config
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Connections Server\Connections Server\bin\Debug\Connections Server.exe
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Connections Server\Connections Server\bin\Debug\Connections Server.pdb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Connections Server\Connections Server\obj\Debug\Connections Server.exe
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Connections Server\Connections Server\obj\Debug\Connections Server.pdb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Connections Server\Connections Server\obj\Debug\Connections Server.csprojResolveAssemblyReference.cache
