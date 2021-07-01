@@ -42,9 +42,8 @@ Server server = new Server(delegate(Client connection) {
 
 //Start the server
 server.Start();
-Note this code is spawned on a separate thread so use the lock statement if dealing with shared data!
 ```
-
+Note this code is spawned on a separate thread so use the lock statement if dealing with shared data!
 ### Extra Features
 Included features are a Client list that can indicate the amount of users connected. Obviously, you can still implement your own:
 ```c#
