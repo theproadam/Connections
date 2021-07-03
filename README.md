@@ -1,6 +1,6 @@
 # Connections
 Connections is a simple TCP wrapper for easy Server/Client communication. It is easy to use, yet is extremely customizable and powerful. While very simple,
-connections contains a few starting features to help quickstart you network project:
+connections contains a few starting features to help quickstart your network project:
 
 - Thread Safety
 - Persistent TCP Connections
@@ -8,6 +8,7 @@ connections contains a few starting features to help quickstart you network proj
 - Built-in Client Lists and Count via `server.GetClients()` and `server.ClientCount`
 - Very little startup code required
 - Included Demo for a simple messaging app
+- Server model prevents clients IP's getting leaked
 
 ## Examples
 Note that these examples use strings, however you can use any type of data supported by BinaryReader/Writer
@@ -28,7 +29,7 @@ Task.Run(delegate() {
   }
 });
 ```
-Obviously, you will need to be reponsible for handling exceptions if a disconnect occurs.
+Obviously, you will need to be reponsible for handling exceptions, for example: a disconnect.
 
 ### Server Setup Example
 ```c#
